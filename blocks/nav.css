@@ -8,6 +8,10 @@
   text-decoration: none;
 }
 
+.nav__link:hover {
+  color: #2f80ed;
+}
+
 .nav__links {
   display: flex;
   margin: 0;
