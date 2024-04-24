@@ -9,11 +9,20 @@
 
 .recipes__videos {
   display: flex;
-  gap: 48px;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
   margin-top: 88px;
   margin-bottom: 24px;
+  gap: 48px;
+  margin-left: 9%;
+
   width: 488px;
   height: 273px;
+}
+
+.recipe__video {
+  gap: 48px;
 }
 
 .recipes__title {
@@ -37,7 +46,10 @@
   font-size: 20px;
   line-height: 30px;
   margin-top: 24px;
+  margin-bottom: 80px;
   left: 80px;
+  max-width: 438px;
+  flex-wrap: wrap;
 }
 
 .recipes__iframe {
