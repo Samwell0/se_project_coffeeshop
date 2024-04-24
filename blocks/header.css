@@ -25,6 +25,7 @@
   font-size: 60px;
   line-height: 72px;
   letter-spacing: -0.6px;
+  z-index: 2;
 }
 
 .header__span-accent {
@@ -45,6 +46,7 @@
   font-style: normal;
   font-weight: normal;
   line-height: 30px;
+  z-index: 2;
 }
 
 .header__image {
@@ -67,6 +69,7 @@
   font-size: 16px;
   line-height: 20px;
   color: #838383;
+  z-index: 2;
 }
 
 .header__paragraph {

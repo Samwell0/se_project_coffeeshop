@@ -10,6 +10,7 @@
 
 .nav__link:hover {
   color: #2f80ed;
+  transition: ease-in-out;
 }
 
 .nav__links {

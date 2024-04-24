@@ -41,13 +41,10 @@
   line-height: 20px;
 }
 
-.form__label::placeholder {
-  padding: 20px;
-}
-
 .form__label_type_checkbox {
   display: flex;
   justify-content: center;
+  align-items: center;
   margin-top: 32px;
   gap: 12px;
 }
@@ -93,7 +90,7 @@
 
 .form__checkbox {
   border-radius: 2px;
-  margin-top: 32px;
+  margin: 0;
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
