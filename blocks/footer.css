@@ -2,7 +2,7 @@
   box-sizing: border-box;
   background: linear-gradient(180deg, #0a2850 0%, #071931 100%);
   color: #fff;
-  padding: 60px 80px 10px 80px;
+  padding: 60px 80px 108px 80px;
 }
 
 .footer__content {
@@ -20,11 +20,10 @@
 
 .footer__column_content_social {
   margin-left: auto;
-  margin-right: 80px;
 }
 
 .footer__logo {
-  width: 185px;
+  width: 105px;
   height: 39px;
 }
 
@@ -68,7 +67,7 @@
 }
 
 .footer__copyright {
-  margin: 108px 0 60px 35px;
+  margin: 108px 0 0 35px;
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
