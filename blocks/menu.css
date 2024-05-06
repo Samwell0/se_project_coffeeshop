@@ -9,7 +9,6 @@
 
 .menu__title {
   text-align: center;
-  justify-content: center;
   max-width: 780px;
   margin: 0 0 24px;
   font-family: "Inter";
@@ -21,7 +20,6 @@
 
 .menu__subtitle {
   text-align: center;
-  justify-content: center;
   margin: 0 0 100px;
   max-width: 780px;
   font-family: "Noto Serif";
@@ -46,44 +44,4 @@
   padding: 0;
   margin: 0;
   list-style-type: none;
-}
-
-.card {
-  list-style-type: none;
-  width: 540px;
-}
-
-.card__title {
-  list-style-type: none;
-  margin: 0 0 32px;
-  font-family: "Inter";
-  font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
-  line-height: 30px;
-}
-
-.card__list {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  display: flex;
-  flex-direction: column;
-  gap: 16px;
-}
-
-.card__list-item {
-  list-style-type: none;
-  display: flex;
-  font-family: "Noto Serif";
-  font-style: normal;
-  font-weight: normal;
-  font-size: 16px;
-  line-height: 20px;
-}
-
-.card__list-divider {
-  border-bottom: 1px solid black;
-  flex-grow: 1;
-  margin: 0 5px 0 5px;
 }
