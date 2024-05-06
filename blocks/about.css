@@ -35,15 +35,13 @@
 
 .about__content {
   max-width: 660px;
-  margin: 119px 80px 173px 0;
+  margin: 119px 130px 173px auto;
   z-index: 1;
-  position: relative;
-  padding-left: 30%;
 }
 
 .about__paragraph {
   color: #fff;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
