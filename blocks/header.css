@@ -1,7 +1,8 @@
 .header {
-  padding: 30px 80px 40px;
+  margin: 30px 5px 40px 80px;
   display: flex;
   flex-direction: column;
+  box-sizing: border-box;
   min-height: 720px;
   max-height: 800px;
   height: 100vh;
