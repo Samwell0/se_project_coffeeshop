@@ -35,7 +35,7 @@
 
 .about__content {
   max-width: 660px;
-  margin: 119px 130px 173px auto;
+  margin: 119px 80px 173px auto;
   z-index: 1;
 }
 
@@ -59,12 +59,5 @@
 }
 
 .about__circle_animation-blurred {
-  position: absolute;
-  background-color: #2f80ed;
-  width: 426px;
-  height: 426px;
-  border-radius: 50%;
-  top: -152px;
-  left: -129px;
   animation: pulsate 1.3s ease-in-out infinite;
 }
