@@ -26,7 +26,7 @@
   color: #fff;
   max-width: 251px;
   position: relative;
-  font-family: "Inter", Arial, Helvetica, sans-serif;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
@@ -43,7 +43,7 @@
 
 .about__paragraph {
   color: #fff;
-  font-family: "Noto Serif", Arial, Helvetica, sans-serif;
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
