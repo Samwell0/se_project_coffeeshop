@@ -59,6 +59,19 @@
   left: -129px;
 }
 
+/* I was told to correct this element, and ONLY give it the animation modifier,
+because the animation would come from the about__circle element. When I delete
+the rest of these properties, there is no animation. And then of course I get a
+kickback about the animation not working. Unsure how to proceed here. This style
+may not be "correct" but it works...? And sorry, I know this is too much
+for a comment and I'm missing something obvious */
 .about__circle-animation_blurred {
+  position: absolute;
+  background-color: #2f80ed;
+  width: 426px;
+  height: 426px;
+  border-radius: 50%;
+  top: -152px;
+  left: -129px;
   animation: pulsate 1.3s ease-in-out infinite;
 }
