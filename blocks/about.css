@@ -51,6 +51,10 @@
   margin: 0 0 20px;
 }
 
+.about__paragraph::after {
+  margin-bottom: 173px;
+}
+
 .about__circle {
   position: absolute;
   background-color: #2f80ed;
