@@ -51,8 +51,8 @@
   margin: 0 0 20px;
 }
 
-.about__paragraph::after {
-  margin-bottom: 173px;
+.about__paragraph:last-of-type {
+  margin-bottom: 153px;
 }
 
 .about__circle {
